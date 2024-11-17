@@ -1,1 +1,1 @@
-# big_data_merito
+Repository created for study purposes
